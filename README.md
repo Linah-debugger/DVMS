@@ -1,6 +1,6 @@
 # DVMS – Digital Visitor Management System
 
-## 📌 Overview
+ Overview
 The Digital Visitor Management System (DVMS) is a secure and scalable system designed to digitize visitor registration, authentication, check-in/check-out tracking, and access control within an organization.
 
 DVMS replaces traditional manual logbooks with a structured digital solution that improves security, accountability, and reporting.
