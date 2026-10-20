@@ -4,7 +4,8 @@ A secure system that replaces paper visitor logbooks with digital registration, 
 
 ## Status
 🚧 In development
-- **Working:** It is fully functional.
+
+- **Working:** The core system is fully functional (staff login, visitor registration, and check-in/check-out tracking). The working code is currently in a private repository; this repository holds the project structure.
 - **Planned:** QR visitor passes, role-based access control, automated reporting
 
 ## Objectives
